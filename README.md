@@ -9,6 +9,7 @@
 </p>
 
 ---
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MOHAMMAD-NAYAN-07&label=Profile+Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/MOHAMMAD-NAYAN-07?label=Follow%20Me&style=social" /> </p>
 
 ## 🧠 About Me
 ```json
@@ -52,6 +53,3 @@
 
 <p align="center"> <a href="https://facebook.com/profile.php?id=100000959749712"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/MOHAMMADNAYAN"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wa.me/+8801615298449"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </p> <p align="center"><i>“Don’t just follow the path, blaze it.”</i></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MOHAMMAD-NAYAN-07&label=Profile+Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/MOHAMMAD-NAYAN-07?label=Follow%20Me&style=social" /> </p>```
