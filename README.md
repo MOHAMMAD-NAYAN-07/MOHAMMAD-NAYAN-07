@@ -20,7 +20,7 @@
   "stack": ["Node.js", "Telegram API", "Express", "MongoDB"],
   "contact": {
     "Facebook": "fb.com/profile.php?id=100000959749712",
-    "Telegram": "@nayan_mohammad",
+    "Telegram": "@MOHAMMADNAYAN",
     "WhatsApp": "wa.me/+8801615298449"
   }
 }
